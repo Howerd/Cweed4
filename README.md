@@ -1,7 +1,9 @@
 # Cweed4
-Cweed is an experiment in specifying a coding standard in the form of an executable program.
+Cweed4 is a C source file weeder for Windows, written in Win32Forth.
 
-It is a Windows program, compiled using Win32Forth, an open source ANS Forth compiler, included in the 7z and zip files.
+Cweed4 is an experiment in specifying a coding standard in the form of an executable program.
+
+It is a Windows program, compiled using Win32Forth, an open source ANS Forth compiler, with all source files included in the 7z and zip files.
 
 Also available here : https://www.inventio.co.uk/Cweedexe.htm
 
