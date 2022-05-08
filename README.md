@@ -1,11 +1,14 @@
 # Cweed4
-Cweed4 is a C source file weeder for Windows, written in Win32Forth.
+Cweed is a C source file weeder for Windows, written in Win32Forth.
 
-Cweed4 is an experiment in specifying a coding standard in the form of an executable program.
+Also available here : https://www.inventio.co.uk/Cweedexe.htm
+
+It only changes whitespace (formatting) and does not otherwise change the content of the file. This is analogous to weeding a garden, where the plants are left untouched but the bits between (weeds) may be seriously modified.
+
+Cweed is an experiment in specifying a coding standard in the form of an executable program.
 
 It is a Windows program, compiled using Win32Forth, an open source ANS Forth compiler, with all source files included in the 7z and zip files.
 
-Also available here : https://www.inventio.co.uk/Cweedexe.htm
 
 Cweed4 V4.05 2022 May 08
 
