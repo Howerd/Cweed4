@@ -3,6 +3,8 @@ Cweed is an experiment in specifying a coding standard in the form of an executa
 
 It is a Windows program, compiled using Win32Forth, an open source ANS Forth compiler, included in the 7z and zip files.
 
+Also available here : https://www.inventio.co.uk/Cweedexe.htm
+
 Cweed4 V4.05 2022 May 08
 
 Run  go.bat  to recompile using the supplied Win32Forth V6.05H (with Win7/8/10 support)
