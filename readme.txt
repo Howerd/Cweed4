@@ -1,4 +1,4 @@
-Cweed4 V4.05 2022 May 08
+Cweed4 V4.06 2022 May 10
 
 Run  go.bat  to recompile using the supplied Win32Forth V6.05H (with Win7/8/10 support)
 
@@ -9,6 +9,11 @@ Run Cweed.exe and select the file to tidy up. Press F1 for Help.
 
 Enjoy!
 Howerd Oakford www.inventio.co.uk
+
+New in Cweed4 V4.06 2022 May 10
+TwoBlankLines  shows where there are more than one blank line, except before a "//" comment block
+MissingBlankLine shows where a second blankline is missing before a "//" comment block
+A "//" comment block is three or more consecutive lines that start with "//"
 
 New in Cweed4 V4.05 2022 May 08
 ctrlQ to test for a space after a C++ style comment : "// comment" not, "//comment"
